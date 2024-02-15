@@ -1,7 +1,7 @@
 # unipi
 Materials 
 
-Computer Science Master Degree @ UNIPI; 
+Computer Science Master Degree @ UNIPI 
 
 Artificial Intelligence Curriculum
 
