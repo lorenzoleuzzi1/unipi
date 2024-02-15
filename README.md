@@ -1,6 +1,8 @@
 # unipi
-Materials
+Materials 
+
 Computer Science Master Degree @ UNIPI; 
+
 Artificial Intelligence Curriculum
 
 Lorenzo Leuzzi
